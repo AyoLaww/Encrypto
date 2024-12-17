@@ -4,7 +4,7 @@ export default function Navbar (){
     return(
         <>
         <div className="flex flex-row justify-between p-5">
-            <p className="text-3xl text-green-500 font-black font-roboto-mono">ENCRYPT</p>
+            <p className="text-3xl text-green-500 font-black font-roboto-mono">ENCRYPTO</p>
 
             <div className="flex flex-row">
                 <Link 
